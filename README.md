@@ -1,5 +1,4 @@
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="diaaahmed" style="display: block; margin-left: auto; margin-right: auto;
-                width: 100%;"/>
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="diaaahmed" />
 
 <h1 align="center">Hi 👋, I'm Diaa Ahmed</h1>
 <h3 align="center">A passionate MEARN Stack developer</h3>
