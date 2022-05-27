@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diaa Ahmed</h1>
 <h3 align="center">A passionate MEARN Stack developer</h3>
 
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=diaaahmed&label=Profile%20views&color=0e75b6&style=flat"
-        alt="diaaahmed"
-    />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diaaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="diaaahmed" /> </p>
 
-- 🌱 I’m currently learning **MEARN Stack Development at ITI** - 👨‍💻 All of my
-projects are available at [available soon](available soon) - 📫 How to reach me
-**diaa.aboelela@gmail.com** mobile: 01128832830
+- 🌱 I’m currently learning **MEARN Stack Development at ITI**
+
+- 👨‍💻 All of my projects are available at [available soon](available soon)
+- 📫 How to reach me:
+     **diaa.aboelela@gmail.com** Mobile: 01128832830
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
