@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [available soon](available soon)
 
-- 📫 How to reach me **diaa.aboelela@gmail.com** 01128832830
+- 📫 How to reach me **diaa.aboelela@gmail.com** mobile: 01128832830
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
