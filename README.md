@@ -1,3 +1,6 @@
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="diaaahmed" style="display: block; margin-left: auto; margin-right: auto;
+                width: 100%;"/>
+
 <h1 align="center">Hi 👋, I'm Diaa Ahmed</h1>
 <h3 align="center">A passionate MEARN Stack developer</h3>
 
@@ -7,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [available soon](available soon)
 - 📫 How to reach me:
-     **diaa.aboelela@gmail.com** Mobile: 01128832830
+     **diaa.aboelela@gmail.com** || Mobile: 01128832830
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
