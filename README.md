@@ -28,12 +28,9 @@ projects are available at [available soon](available soon) - 📫 How to reach m
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
-    <img align="left" alt="Visual Studio Code" width="50px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-        style="max-width: 100%;">
-    <br>
-    <br>
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
+<br>
+<br>
 <P>Frontend Development</P>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
